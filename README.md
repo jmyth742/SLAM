@@ -1,5 +1,5 @@
 # SLAM
-This is a Unity based game for Industry 4.0 to allow the user to understand how SLAM (Simultaneous Localisation and Mapping) works. The user can move around a mine, capture pointclouds using a simulated time of flight (ToF) camera and send them over to the ICP algorithm to reconstruct the mine in real time. This allows the user to map and localise itself on an unstructured environment.
+This is a Unity based game for Industry 4.0 to allow the user to understand how SLAM (Simultaneous Localisation and Mapping) works. The user can move around a mine, capture pointclouds using a simulated time of flight (ToF) camera and send them over to the ICP algorithm to reconstruct the mine in real time. This allows the user to map and localise itself on an unstructured environment. Take a look at our [video demo](https://www.youtube.com/watch?v=ntKkwUbOkWc).
 
 We provide a built working version that uses the Windows Subsystem of Linux (WSL) to run the backend, along with a working executable of the game for Windows 10 64-bits.
 
